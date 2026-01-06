@@ -1,6 +1,8 @@
 #  Electric Vehicle Adoption Analysis  
 **Google Data Analytics Professional Certificate – Capstone Project**
 
+For a more comprehensive analysis: [PDF Link] (https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/Electric%20Vehicle%20Adoption%20Analysis.pdf)
+
 ## 📌 Overview
 This project analyzes **electric vehicle (EV) adoption trends in Washington State** using public registration data.  
 The objective is to generate **data-driven insights** that can support transportation planning, charging infrastructure development, and sustainability initiatives.
@@ -66,7 +68,7 @@ Legislative district, electric utility, census tract, full VINs
 ## 📈 Analysis Summary
 
 ### Vehicle Type Distribution
-![EV Distribution](https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/EV%20Distribution%20Chart.png)
+  ![EV Distribution](https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/EV%20Distribution%20Chart.png)
 - **Battery Electric Vehicles (BEVs)** dominate registrations in Washington
 - BEVs outnumber PHEVs by nearly **2:1**
 - Vehicles with zero reported range were included in counts but excluded from range trend analysis
@@ -75,7 +77,7 @@ Legislative district, electric utility, census tract, full VINs
 
 ### Geographic Adoption
 EV adoption is highly concentrated in a small number of counties:
-![Top 10 Counties](https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/Top%2010%20Counties%20Chart.png)
+  ![Top 10 Counties](https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/Top%2010%20Counties%20Chart.png)
 - **King County** – largest EV population and charging infrastructure
 - **Clark County** – strong commuter-driven growth
 - **Benton County** – strategic corridor location in Eastern Washington
