@@ -2,6 +2,7 @@
 **Google Data Analytics Professional Certificate – Capstone Project**
 
 ## For a more comprehensive analysis: **[Electric Vehicle Adoption Analysis.pdf](https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/Electric%20Vehicle%20Adoption%20Analysis.pdf)**
+## R notebook: **[These are the commands that I used to create the visuals in R studio, now transferred to a Kaggle Notebook](https://www.kaggle.com/code/seanrussel/capstone-ev-pop-data-in-wa-usa)**
 
 ## 📌 Overview
 This project analyzes **electric vehicle (EV) adoption trends in Washington State** using public registration data.  
