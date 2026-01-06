@@ -1,7 +1,7 @@
 #  Electric Vehicle Adoption Analysis  
 **Google Data Analytics Professional Certificate – Capstone Project**
 
-For a more comprehensive analysis: [PDF Link] (https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/Electric%20Vehicle%20Adoption%20Analysis.pdf)
+## For a more comprehensive analysis: **[PDF Link] (https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/Electric%20Vehicle%20Adoption%20Analysis.pdf)**
 
 ## 📌 Overview
 This project analyzes **electric vehicle (EV) adoption trends in Washington State** using public registration data.  
