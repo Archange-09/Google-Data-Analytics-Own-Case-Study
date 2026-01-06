@@ -75,6 +75,7 @@ Legislative district, electric utility, census tract, full VINs
 
 ### Geographic Adoption
 EV adoption is highly concentrated in a small number of counties:
+![Top 10 Counties](https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/Top%2010%20Counties%20Chart.png)
 - **King County** – largest EV population and charging infrastructure
 - **Clark County** – strong commuter-driven growth
 - **Benton County** – strategic corridor location in Eastern Washington
@@ -87,9 +88,12 @@ These trends align with state infrastructure plans and utility electrification i
 ---
 
 ### Evolution of Electric Range
+  ![BEV range](https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/BEV%20Range%20Chart.png)
 - BEV electric ranges have increased significantly over time
+  ![Tesla range](https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/Tesla%20Range%20Chart.png)
 - Tesla models drive much of the observed range growth
 - A temporary dip in Tesla’s average range reflects the introduction of more affordable models (e.g., Model 3)
+  ![PHEV electric motor range](https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/PHEV%20Electric%20Motor%20Range%20Chart.png)
 - PHEVs show gradual improvements but maintain lower electric-only ranges by design
 
 **Data Handling Note:**  
@@ -98,6 +102,7 @@ A Wheego vehicle record reporting a 100-mile electric range under the PHEV categ
 ---
 
 ### Manufacturer Trends
+  ![Top manufacturers](https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/Top%20Manufacturers%20Chart.png)
 - **BEV Market Leader:** Tesla (over 50% of BEV registrations)
 - **PHEV Market Leader:** Volvo
 - Consumer preferences differ significantly between BEV and PHEV technologies
