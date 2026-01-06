@@ -66,7 +66,7 @@ Legislative district, electric utility, census tract, full VINs
 ## 📈 Analysis Summary
 
 ### Vehicle Type Distribution
-**[EV Distribution](https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/EV%20Distribution%20Chart.png)**
+![EV Distribution](https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/EV%20Distribution%20Chart.png)
 - **Battery Electric Vehicles (BEVs)** dominate registrations in Washington
 - BEVs outnumber PHEVs by nearly **2:1**
 - Vehicles with zero reported range were included in counts but excluded from range trend analysis
