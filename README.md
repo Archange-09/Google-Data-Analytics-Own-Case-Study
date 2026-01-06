@@ -123,7 +123,8 @@ A Wheego vehicle record reporting a 100-mile electric range under the PHEV categ
   - Electric range trends
 
 ---
-
+![Static Dashboard](https://github.com/Archange-09/Google-Data-Analytics-Own-Case-Study/blob/main/static_dashboard.png)
+## Static Dashboard 
 ## 🚀 Recommendations
 1. **Expand DC Fast Charging Infrastructure**
    - Prioritize Level 3 fast chargers
